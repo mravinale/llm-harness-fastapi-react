@@ -21,7 +21,7 @@ FastAPI + Pydantic models -> OpenAPI schema -> generated TypeScript client/types
 ## Quick Start
 
 ~~~bash
-npx @tierone/llm-harness-fastapi-react init
+npx @mravinale/llm-harness-fastapi-react init
 npx @intellectronica/ruler apply
 ~~~
 
