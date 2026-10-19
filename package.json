@@ -1,5 +1,5 @@
 {
-  "name": "@tierone/llm-harness-fastapi-react",
+  "name": "@mravinale/llm-harness-fastapi-react",
   "version": "0.1.0",
   "description": "LLM agent harness for fullstack (FastAPI + React) monorepos \u2014 guides (skills, instructions) + sensors (dual-tier review agents). Installs into .ruler/ via a 3-way-merge-aware CLI.",
   "type": "module",
@@ -47,16 +47,16 @@
     "skills",
     "agents"
   ],
-  "author": "TierOne Studio",
+  "author": "mravinale",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TierOne-Studio/llm-harness-fastapi-react.git"
+    "url": "git+https://github.com/mravinale/llm-harness-fastapi-react.git"
   },
   "bugs": {
-    "url": "https://github.com/TierOne-Studio/llm-harness-fastapi-react/issues"
+    "url": "https://github.com/mravinale/llm-harness-fastapi-react/issues"
   },
-  "homepage": "https://github.com/TierOne-Studio/llm-harness-fastapi-react#readme",
+  "homepage": "https://github.com/mravinale/llm-harness-fastapi-react#readme",
   "publishConfig": {
     "access": "public"
   }
